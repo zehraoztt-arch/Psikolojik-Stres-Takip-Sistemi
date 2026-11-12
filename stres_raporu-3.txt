@@ -1,0 +1,39 @@
+PSİKOLOJİK STRES TAKİP VE ANALİZ RAPORU
+=====================================
+
+Toplam Kayıt: 4
+Ortalama Stres: 5.50
+Ortalama Uyku: 6.50 saat
+
+STRES DAĞILIMI
+Düşük Stres: 2 kayıt
+Orta Stres: 0 kayıt
+Yüksek Stres: 2 kayıt
+
+GÜNLÜK KAYITLAR
+
+Kayıt 1
+Stres: 8
+Uyku: 5.0 saat
+Ruh Hali: kötü
+Kategori: Yüksek
+
+Kayıt 2
+Stres: 3
+Uyku: 8.0 saat
+Ruh Hali: iyi
+Kategori: Düşük
+
+Kayıt 3
+Stres: 8
+Uyku: 5.0 saat
+Ruh Hali: kötü
+Kategori: Yüksek
+
+Kayıt 4
+Stres: 3
+Uyku: 8.0 saat
+Ruh Hali: iyi
+Kategori: Düşük
+
+Bu rapor psikolojik tanı amacı taşımaz.
